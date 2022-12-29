@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="16.5" version="16.5" Modules="professional" RootPath="." Language="en" Id="{1688A730-DB2F-411D-A083-E28EDF73D5B5}">
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
+    <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
+    <ROW Property="AI_PREDEF_LCONDS_PROPS" Value="AI_DETECTED_DOTNET_VERSION;AI_DETECTED_SQLEXPRESS_VERSION"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.Licensing.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll" Value="..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Bunifu.Utils.dll" Value="..\packages\Bunifu.Utils.1.0.6\lib\net"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_EntityFramework.SqlServer.dll" Value="..\packages\EntityFramework.6.2.0\lib\net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_EntityFramework.dll" Value="..\packages\EntityFramework.6.2.0\lib\net45"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Guna.UI2.dll" Value="..\packages\Guna.UI2.WinForms.2.0.2.5\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_MaterialDesignColors.dll" Value="..\packages\MaterialDesignColors.2.0.4\lib\net452"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_MaterialDesignThemes.Wpf.dll" Value="..\packages\MaterialDesignThemes.4.3.0\lib\net452"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.Common.dll" Value="..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll" Value="..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.Design.dll" Value="..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll" Value="..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.WinForms.dll" Value="..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40"/>
+    <ROW Property="AI_PROPPATH_DIR_PERBUILD_Microsoft.SqlServer.Types.dll" Value="..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Licensing.dll" Value="Bunifu.Licensing.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll" Value="Bunifu.UI.WinForms.1.5.3.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll" Value="Bunifu.UI.WinForms.BunifuButton.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll" Value="Bunifu.UI.WinForms.BunifuCheckBox.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll" Value="Bunifu.UI.WinForms.BunifuCircleProgress.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll" Value="Bunifu.UI.WinForms.BunifuColorTransition.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll" Value="Bunifu.UI.WinForms.BunifuDataGridView.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll" Value="Bunifu.UI.WinForms.BunifuDatePicker.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll" Value="Bunifu.UI.WinForms.BunifuDropdown.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll" Value="Bunifu.UI.WinForms.BunifuFormDock.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll" Value="Bunifu.UI.WinForms.BunifuGauge.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll" Value="Bunifu.UI.WinForms.BunifuGradientPanel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll" Value="Bunifu.UI.WinForms.BunifuGroupBox.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll" Value="Bunifu.UI.WinForms.BunifuImageButton.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll" Value="Bunifu.UI.WinForms.BunifuLabel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll" Value="Bunifu.UI.WinForms.BunifuLoader.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll" Value="Bunifu.UI.WinForms.BunifuPages.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll" Value="Bunifu.UI.WinForms.BunifuPanel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll" Value="Bunifu.UI.WinForms.BunifuPictureBox.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll" Value="Bunifu.UI.WinForms.BunifuProgressBar.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll" Value="Bunifu.UI.WinForms.BunifuRadioButton.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll" Value="Bunifu.UI.WinForms.BunifuRating.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll" Value="Bunifu.UI.WinForms.BunifuScrollBar.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll" Value="Bunifu.UI.WinForms.BunifuSeparator.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll" Value="Bunifu.UI.WinForms.BunifuShadowPanel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll" Value="Bunifu.UI.WinForms.BunifuShapes.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll" Value="Bunifu.UI.WinForms.BunifuSlider.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll" Value="Bunifu.UI.WinForms.BunifuSnackbar.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll" Value="Bunifu.UI.WinForms.BunifuTextBox.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll" Value="Bunifu.UI.WinForms.BunifuToggleSwitch.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll" Value="Bunifu.UI.WinForms.BunifuToolTip.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll" Value="Bunifu.UI.WinForms.BunifuTransition.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll" Value="Bunifu.UI.WinForms.BunifuUserControl.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll" Value="Bunifu.UI.WinForms.Deprecated.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Utils.dll" Value="Bunifu.Utils.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.SqlServer.dll" Value="EntityFramework.SqlServer.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.dll" Value="EntityFramework.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Guna.UI2.dll" Value="Guna.UI2.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignColors.dll" Value="MaterialDesignColors.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignThemes.Wpf.dll" Value="MaterialDesignThemes.Wpf.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Common.dll" Value="Microsoft.ReportViewer.Common.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll" Value="Microsoft.ReportViewer.DataVisualization.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Design.dll" Value="Microsoft.ReportViewer.Design.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll" Value="Microsoft.ReportViewer.ProcessingObjectModel.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.WinForms.dll" Value="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW Property="AI_PROPPATH_FILENAME_PERBUILD_Microsoft.SqlServer.Types.dll" Value="Microsoft.SqlServer.Types.dll"/>
+    <ROW Property="AI_REQUIRED_DOTNET_DISPLAY" MultiBuildValue="DefaultBuild:4.8" ValueLocId="-"/>
+    <ROW Property="AI_REQUIRED_DOTNET_VERSION" MultiBuildValue="DefaultBuild:4.8" ValueLocId="-"/>
+    <ROW Property="AI_REQUIRED_SQLEXPRESS_DISPLAY" MultiBuildValue="DefaultBuild:SQL Server Express 2019" ValueLocId="-"/>
+    <ROW Property="AI_REQUIRED_SQLEXPRESS_VERSION" MultiBuildValue="DefaultBuild:2019" ValueLocId="-"/>
+    <ROW Property="ALLUSERS" Value="1"/>
+    <ROW Property="ARPCOMMENTS" Value="This installer database contains the logic and data required to install [|ProductName]." ValueLocId="*"/>
+    <ROW Property="Manufacturer" Value="QuanLyKhachSanThienAn"/>
+    <ROW Property="ProductCode" Value="1033:{223890DD-423E-4D54-A7D2-0915B6401F75} " Type="16"/>
+    <ROW Property="ProductLanguage" Value="1033"/>
+    <ROW Property="ProductName" Value="QuanLyKhachSan"/>
+    <ROW Property="ProductVersion" Value="1.0.0" Type="32"/>
+    <ROW Property="SecureCustomProperties" Value="OLDPRODUCTS;AI_NEWERPRODUCTFOUND"/>
+    <ROW Property="UpgradeCode" Value="{03D5B21E-E783-4955-95C4-65B20D77D726}"/>
+    <ROW Property="WindowsType9X" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsType9XDisplay" MultiBuildValue="DefaultBuild:Windows 9x/ME" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT40Display" MultiBuildValue="DefaultBuild:Windows NT 4.0" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT50Display" MultiBuildValue="DefaultBuild:Windows 2000" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5X" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+    <ROW Property="WindowsTypeNT5XDisplay" MultiBuildValue="DefaultBuild:Windows XP/2003 RTM, Windows XP/2003 SP1, Windows XP SP2 x86" ValueLocId="-"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiDirsComponent">
+    <ROW Directory="APPDIR" Directory_Parent="TARGETDIR" DefaultDir="APPDIR:." IsPseudoRoot="1"/>
+    <ROW Directory="Assets" Directory_Parent="TARGETDIR" DefaultDir="Assets" IsPseudoRoot="1"/>
+    <ROW Directory="QLSK_Dir" Directory_Parent="APPDIR" DefaultDir="QLSK"/>
+    <ROW Directory="TARGETDIR" DefaultDir="SourceDir"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCompsComponent">
+    <ROW Component="APPDIR" ComponentId="{3A969030-65D5-43C3-B85A-DB5B34321F6B}" Directory_="APPDIR" Attributes="0"/>
+    <ROW Component="ProductInformation" ComponentId="{FEC480FE-974C-4AC6-8AC4-268955BEA282}" Directory_="APPDIR" Attributes="4" KeyPath="Version"/>
+    <ROW Component="QLSK_References" ComponentId="{E858D255-FF45-4A9D-8F62-36077343E4E3}" Directory_="QLSK_Dir" Attributes="0" KeyPath="Microsoft.SqlServer.Types.dll"/>
+    <ROW Component="Store50x50Logo.scale100.png" ComponentId="{FA3C906E-90E1-4FA8-93E6-B167204FF2B7}" Directory_="Assets" Attributes="0" KeyPath="Store50x50Logo.scale100.png" Type="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatsComponent">
+    <ROW Feature="AiAppXAssets" Title="AiAppXAssets" Description="Description" Display="3" Level="0" Directory_="APPDIR" Attributes="0" Options="271" Builds="BuildUwpAppX"/>
+    <ROW Feature="MainFeature" Title="MainFeature" Description="Description" Display="1" Level="1" Directory_="APPDIR" Attributes="0"/>
+    <ATTRIBUTE name="CurrentFeature" value="MainFeature"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFilesComponent">
+    <ROW File="Store50x50Logo.scale100.png" Component_="Store50x50Logo.scale100.png" FileName="STORE5~1.PNG|Store50x50Logo.scale-100.png" Attributes="0" SourcePath="&lt;AI_RES&gt;appx\StoreLogo.png" SelfReg="false"/>
+    <ROW File="QuanLyKhachSanSquare44x44Logo.scale100.png" Component_="Store50x50Logo.scale100.png" FileName="QUANLY~1.PNG|QuanLyKhachSanSquare44x44Logo.scale-100.png" Attributes="0" SourcePath="&lt;AI_RES&gt;appx\SmallLogo10.png" SelfReg="false"/>
+    <ROW File="QuanLyKhachSanSquare150x150Logo.scale100.png" Component_="Store50x50Logo.scale100.png" FileName="QUANLY~2.PNG|QuanLyKhachSanSquare150x150Logo.scale-100.png" Attributes="0" SourcePath="&lt;AI_RES&gt;appx\Logo.png" SelfReg="false"/>
+    <ROW File="Bunifu.Licensing.dll" Component_="QLSK_References" FileName="BUNIFU~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Licensing.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.Licensing.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.1.5.3.dll" Component_="QLSK_References" FileName="BUNIFU~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuButton.dll" Component_="QLSK_References" FileName="BUNIFU~4.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuCheckBox.dll" Component_="QLSK_References" FileName="BUNIFU~5.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuCircleProgress.dll" Component_="QLSK_References" FileName="BUNIFU~6.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuColorTransition.dll" Component_="QLSK_References" FileName="BUNIFU~7.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuDataGridView.dll" Component_="QLSK_References" FileName="BUNIFU~8.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuDatePicker.dll" Component_="QLSK_References" FileName="BUNIFU~9.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuDropdown.dll" Component_="QLSK_References" FileName="BUNIF~10.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuFormDock.dll" Component_="QLSK_References" FileName="BUNIF~11.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuGauge.dll" Component_="QLSK_References" FileName="BUNIF~12.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuGradientPanel.dll" Component_="QLSK_References" FileName="BUNIF~13.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuGroupBox.dll" Component_="QLSK_References" FileName="BUNIF~14.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuImageButton.dll" Component_="QLSK_References" FileName="BUNIF~15.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuLabel.dll" Component_="QLSK_References" FileName="BUNIF~16.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuLoader.dll" Component_="QLSK_References" FileName="BUNIF~17.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuPages.dll" Component_="QLSK_References" FileName="BUNIF~18.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuPanel.dll" Component_="QLSK_References" FileName="BUNIF~19.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuPictureBox.dll" Component_="QLSK_References" FileName="BUNIF~20.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuProgressBar.dll" Component_="QLSK_References" FileName="BUNIF~21.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuRadioButton.dll" Component_="QLSK_References" FileName="BUNIF~22.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuRating.dll" Component_="QLSK_References" FileName="BUNIF~23.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuScrollBar.dll" Component_="QLSK_References" FileName="BUNIF~24.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuSeparator.dll" Component_="QLSK_References" FileName="BUNIF~25.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuShadowPanel.dll" Component_="QLSK_References" FileName="BUNIF~26.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuShapes.dll" Component_="QLSK_References" FileName="BUNIF~27.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuSlider.dll" Component_="QLSK_References" FileName="BUNIF~28.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuSnackbar.dll" Component_="QLSK_References" FileName="BUNIF~29.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuTextBox.dll" Component_="QLSK_References" FileName="BUNIF~30.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuToggleSwitch.dll" Component_="QLSK_References" FileName="BUNIF~31.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuToolTip.dll" Component_="QLSK_References" FileName="BUNIF~32.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuTransition.dll" Component_="QLSK_References" FileName="BUNIF~33.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.BunifuUserControl.dll" Component_="QLSK_References" FileName="BUNIF~34.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.UI.WinForms.Deprecated.dll" Component_="QLSK_References" FileName="BUNIF~35.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll&gt;" SelfReg="false"/>
+    <ROW File="Bunifu.Utils.dll" Component_="QLSK_References" FileName="BUNIF~36.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Utils.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Bunifu.Utils.dll&gt;" SelfReg="false"/>
+    <ROW File="EntityFramework.dll" Component_="QLSK_References" FileName="ENTITY~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_EntityFramework.dll&gt;" SelfReg="false"/>
+    <ROW File="EntityFramework.SqlServer.dll" Component_="QLSK_References" FileName="ENTITY~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.SqlServer.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_EntityFramework.SqlServer.dll&gt;" SelfReg="false"/>
+    <ROW File="Guna.UI2.dll" Component_="QLSK_References" FileName="GUNAUI~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Guna.UI2.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Guna.UI2.dll&gt;" SelfReg="false"/>
+    <ROW File="MaterialDesignColors.dll" Component_="QLSK_References" FileName="MATERI~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignColors.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_MaterialDesignColors.dll&gt;" SelfReg="false"/>
+    <ROW File="MaterialDesignThemes.Wpf.dll" Component_="QLSK_References" FileName="MATERI~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignThemes.Wpf.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_MaterialDesignThemes.Wpf.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.Common.dll" Component_="QLSK_References" FileName="MICROS~2.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Common.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.ReportViewer.Common.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.DataVisualization.dll" Component_="QLSK_References" FileName="MICROS~3.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.Design.dll" Component_="QLSK_References" FileName="MICROS~4.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Design.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.ReportViewer.Design.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.ProcessingObjectModel.dll" Component_="QLSK_References" FileName="MICROS~5.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.ReportViewer.WinForms.dll" Component_="QLSK_References" FileName="MICROS~6.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.WinForms.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.ReportViewer.WinForms.dll&gt;" SelfReg="false"/>
+    <ROW File="Microsoft.SqlServer.Types.dll" Component_="QLSK_References" FileName="MICROS~7.DLL|[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.SqlServer.Types.dll]" Attributes="0" SourcePath="&lt;AI_APPPATH_PERBUILD_Microsoft.SqlServer.Types.dll&gt;" SelfReg="false"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.AppPathsComponent">
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.Licensing.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.Licensing.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Licensing.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.1.5.3.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuButton.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCheckBox.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuCircleProgress.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuColorTransition.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDataGridView.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDatePicker.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuDropdown.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuFormDock.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGauge.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGradientPanel.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuGroupBox.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuImageButton.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLabel.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuLoader.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPages.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPanel.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuPictureBox.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuProgressBar.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRadioButton.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuRating.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuScrollBar.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSeparator.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShadowPanel.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuShapes.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSlider.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuSnackbar.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTextBox.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToggleSwitch.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuToolTip.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuTransition.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.BunifuUserControl.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.UI.WinForms.Deprecated.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Bunifu.Utils.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Bunifu.Utils.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Bunifu.Utils.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_EntityFramework.SqlServer.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_EntityFramework.SqlServer.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.SqlServer.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_EntityFramework.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_EntityFramework.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_EntityFramework.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Guna.UI2.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Guna.UI2.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Guna.UI2.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_MaterialDesignColors.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_MaterialDesignColors.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignColors.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_MaterialDesignThemes.Wpf.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_MaterialDesignThemes.Wpf.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_MaterialDesignThemes.Wpf.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.ReportViewer.Common.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.Common.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Common.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.DataVisualization.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.ReportViewer.Design.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.Design.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.Design.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.ProcessingObjectModel.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.ReportViewer.WinForms.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.ReportViewer.WinForms.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.ReportViewer.WinForms.dll]" Type="2" Content="0"/>
+    <ROW Name="AI_APPPATH_PERBUILD_Microsoft.SqlServer.Types.dll" Path="[|AI_PROPPATH_DIR_PERBUILD_Microsoft.SqlServer.Types.dll]\[|AI_PROPPATH_FILENAME_PERBUILD_Microsoft.SqlServer.Types.dll]" Type="2" Content="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.AppXCfgComponent">
+    <ROW ID="Configuration" Order="1" ManifestFile="AppxManifest.xml" TargetOs="4"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BootstrOptComponent">
+    <ROW BootstrOptKey="GlobalOptions" DownloadFolder="[AppDataFolder][|Manufacturer]\[|ProductName]\prerequisites" Options="2"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BootstrapperUISequenceComponent">
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.BuildComponent">
+    <ROW BuildKey="BuildUwpAppX" BuildName="BuildUwpAppX" BuildOrder="2" BuildType="7" PackageFolder="BuildUwpAppXSetupFiles" Languages="en" UwpTargetDesktop="TargetDeviceFamily"/>
+    <ROW BuildKey="BuildUwpAppXSubBuild" BuildName="x64" BuildOrder="2" BuildType="8" ParentBuild="BuildUwpAppX"/>
+    <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" Languages="en" InstallationType="4" UseLargeSchema="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;ui_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.FragmentComponent">
+    <ROW Fragment="CommonUI.aip" Path="&lt;AI_FRAGS&gt;CommonUI.aip"/>
+    <ROW Fragment="FolderDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\FolderDlg.aip"/>
+    <ROW Fragment="MaintenanceTypeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceTypeDlg.aip"/>
+    <ROW Fragment="MaintenanceWelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\MaintenanceWelcomeDlg.aip"/>
+    <ROW Fragment="SequenceDialogs.aip" Path="&lt;AI_THEMES&gt;classic\fragments\SequenceDialogs.aip"/>
+    <ROW Fragment="Sequences.aip" Path="&lt;AI_FRAGS&gt;Sequences.aip"/>
+    <ROW Fragment="StaticUIStrings.aip" Path="&lt;AI_FRAGS&gt;StaticUIStrings.aip"/>
+    <ROW Fragment="UI.aip" Path="&lt;AI_THEMES&gt;classic\fragments\UI.aip"/>
+    <ROW Fragment="Validation.aip" Path="&lt;AI_FRAGS&gt;Validation.aip"/>
+    <ROW Fragment="VerifyRemoveDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRemoveDlg.aip"/>
+    <ROW Fragment="VerifyRepairDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\VerifyRepairDlg.aip"/>
+    <ROW Fragment="WelcomeDlg.aip" Path="&lt;AI_THEMES&gt;classic\fragments\WelcomeDlg.aip"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.GenericXmlAttributeComponent">
+    <ROW XmlAttribute="AppListEntry" XmlElement="VisualElements" Name="AppListEntry" Flags="0" Order="0" Value="default"/>
+    <ROW XmlAttribute="BackgroundColor" XmlElement="VisualElements" Name="BackgroundColor" Flags="0" Order="0" Value="transparent"/>
+    <ROW XmlAttribute="Description" XmlElement="VisualElements" Name="Description" Flags="0" Order="0" Value="QuanLyKhachSan"/>
+    <ROW XmlAttribute="DisplayName" XmlElement="VisualElements" Name="DisplayName" Flags="0" Order="0" Value="QuanLyKhachSan"/>
+    <ROW XmlAttribute="Id" XmlElement="Application" Name="Id" Flags="0" Order="0" Value="QuanLyKhachSan"/>
+    <ROW XmlAttribute="Language" XmlElement="Resource_1" Name="Language" Flags="0" Order="0" Value="en-US"/>
+    <ROW XmlAttribute="MaxVersionTested" XmlElement="TargetDeviceFamily" Name="MaxVersionTested" Flags="0" Order="0" Value="10.0.18362.0"/>
+    <ROW XmlAttribute="MigrationUninstallCode" XmlElement="Package" Name="MigrationUninstallCode" Flags="0" Order="0" Value="{03D5B21E-E783-4955-95C4-65B20D77D726}"/>
+    <ROW XmlAttribute="MinVersion" XmlElement="TargetDeviceFamily" Name="MinVersion" Flags="0" Order="0" Value="10.0.17134.0"/>
+    <ROW XmlAttribute="Name" XmlElement="Identity" Name="Name" Flags="0" Order="0" Value="QuanLyKhachSanThienAn.QuanLyKhachSan"/>
+    <ROW XmlAttribute="Name_1" XmlElement="Capability" Name="Name" Flags="0" Order="0" Value="runFullTrust"/>
+    <ROW XmlAttribute="Name_2" XmlElement="TargetDeviceFamily" Name="Name" Flags="0" Order="0" Value="Windows.Desktop"/>
+    <ROW XmlAttribute="Preference" XmlElement="Rotation" Name="Preference" Flags="0" Order="0" Value="portrait"/>
+    <ROW XmlAttribute="Preference_1" XmlElement="Rotation_1" Name="Preference" Flags="0" Order="0" Value="landscape"/>
+    <ROW XmlAttribute="ProcessorArchitecture" XmlElement="Identity" Name="ProcessorArchitecture" Flags="0" Order="0" Value="x64"/>
+    <ROW XmlAttribute="Publisher" XmlElement="Identity" Name="Publisher" Flags="0" Order="0" Value="CN=QuanLyKhachSanThienAn"/>
+    <ROW XmlAttribute="Scale" XmlElement="Resource" Name="Scale" Flags="0" Order="0" Value="100"/>
+    <ROW XmlAttribute="Square150x150Logo" XmlElement="VisualElements" Name="Square150x150Logo" Flags="0" Order="0" FileId="QuanLyKhachSanSquare150x150Logo.scale100.png"/>
+    <ROW XmlAttribute="Square44x44Logo" XmlElement="VisualElements" Name="Square44x44Logo" Flags="0" Order="0" FileId="QuanLyKhachSanSquare44x44Logo.scale100.png"/>
+    <ROW XmlAttribute="StartPage" XmlElement="Application" Name="StartPage" Flags="0" Order="0" Value="http://www.example.com"/>
+    <ROW XmlAttribute="Version" XmlElement="Identity" Name="Version" Flags="0" Order="0" Value="1.0.0.0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.GenericXmlElementComponent">
+    <ROW XmlElement="Application" ParentElement="Applications" Name="Application" Order="0" Flags="0" Type="4"/>
+    <ROW XmlElement="Applications" ParentElement="Package" Name="Applications" Order="4" Flags="0" Type="3"/>
+    <ROW XmlElement="Capabilities" ParentElement="Package" Name="Capabilities" Order="2" Flags="0" Type="0"/>
+    <ROW XmlElement="Capability" ParentElement="Capabilities" Name="Capability" Order="0" Flags="0" Type="0"/>
+    <ROW XmlElement="Dependencies" ParentElement="Package" Name="Dependencies" Order="5" Flags="0" Type="0"/>
+    <ROW XmlElement="DisplayName" ParentElement="Properties" Name="DisplayName" Order="1" Flags="0" Text="QuanLyKhachSan" Type="0"/>
+    <ROW XmlElement="Identity" ParentElement="Package" Name="Identity" Order="0" Flags="0" Type="0"/>
+    <ROW XmlElement="InitialRotationPreference" ParentElement="VisualElements" Name="InitialRotationPreference" Order="0" Flags="0" Type="0"/>
+    <ROW XmlElement="Logo" ParentElement="Properties" Name="Logo" Order="2" Flags="0" FileId="Store50x50Logo.scale100.png" Type="0"/>
+    <ROW XmlElement="Package" Name="Package" Order="0" Flags="0" Type="6"/>
+    <ROW XmlElement="Properties" ParentElement="Package" Name="Properties" Order="3" Flags="0" Type="0"/>
+    <ROW XmlElement="PublisherDisplayName" ParentElement="Properties" Name="PublisherDisplayName" Order="0" Flags="0" Text="QuanLyKhachSanThienAn" Type="0"/>
+    <ROW XmlElement="Resource" ParentElement="Resources" Name="Resource" Order="0" Flags="0" Type="0"/>
+    <ROW XmlElement="Resource_1" ParentElement="Resources" Name="Resource" Order="1" Flags="0" Type="0"/>
+    <ROW XmlElement="Resources" ParentElement="Package" Name="Resources" Order="1" Flags="0" Type="0"/>
+    <ROW XmlElement="Rotation" ParentElement="InitialRotationPreference" Name="Rotation" Order="0" Flags="0" Type="0"/>
+    <ROW XmlElement="Rotation_1" ParentElement="InitialRotationPreference" Name="Rotation" Order="1" Flags="0" Type="0"/>
+    <ROW XmlElement="TargetDeviceFamily" ParentElement="Dependencies" Name="TargetDeviceFamily" Order="0" Flags="0" Type="28"/>
+    <ROW XmlElement="VisualElements" ParentElement="Application" Name="VisualElements" Order="0" Flags="0" Type="0"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.GenericXmlFileComponent">
+    <ROW XmlFile="AppxManifest.xml" FileName="AppxManifest.xml" RootElement="Package" Flags="89" Version="1.0" Encoding="UTF-8" IndentUnits="2"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiBinaryComponent">
+    <ROW Name="SoftwareDetector.dll" SourcePath="&lt;AI_CUSTACTS&gt;SoftwareDetector.dll"/>
+    <ROW Name="aicustact.dll" SourcePath="&lt;AI_CUSTACTS&gt;aicustact.dll"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiControlEventComponent">
+    <ROW Dialog_="WelcomeDlg" Control_="Next" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="FolderDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="FolderDlg" Control_="Back" Event="NewDialog" Argument="WelcomeDlg" Condition="AI_INSTALL" Ordering="1"/>
+    <ROW Dialog_="MaintenanceWelcomeDlg" Control_="Next" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="99"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_MAINT" Ordering="198"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="202"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_INSTALL" Ordering="197"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="FolderDlg" Condition="AI_INSTALL" Ordering="201"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_MAINT" Ordering="101"/>
+    <ROW Dialog_="CustomizeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="ChangeButton" Event="NewDialog" Argument="CustomizeDlg" Condition="AI_MAINT" Ordering="501"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceWelcomeDlg" Condition="AI_MAINT" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RemoveButton" Event="NewDialog" Argument="VerifyRemoveDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="1"/>
+    <ROW Dialog_="MaintenanceTypeDlg" Control_="RepairButton" Event="NewDialog" Argument="VerifyRepairDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="601"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Back" Event="NewDialog" Argument="MaintenanceTypeDlg" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="1"/>
+    <ROW Dialog_="VerifyRepairDlg" Control_="Repair" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Repair&quot;" Ordering="399" Options="1"/>
+    <ROW Dialog_="VerifyRemoveDlg" Control_="Remove" Event="EndDialog" Argument="Return" Condition="AI_MAINT AND InstallMode=&quot;Remove&quot;" Ordering="299" Options="1"/>
+    <ROW Dialog_="PatchWelcomeDlg" Control_="Next" Event="NewDialog" Argument="VerifyReadyDlg" Condition="AI_PATCH" Ordering="201"/>
+    <ROW Dialog_="ResumeDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_RESUME" Ordering="299"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Install" Event="EndDialog" Argument="Return" Condition="AI_PATCH" Ordering="199"/>
+    <ROW Dialog_="VerifyReadyDlg" Control_="Back" Event="NewDialog" Argument="PatchWelcomeDlg" Condition="AI_PATCH" Ordering="203"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCreateFolderComponent">
+    <ROW Directory_="APPDIR" Component_="APPDIR" ManualDelete="true"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiCustActComponent">
+    <ROW Action="AI_DOWNGRADE" Type="19" Target="4010"/>
+    <ROW Action="AI_DetectSoftware" Type="257" Source="SoftwareDetector.dll" Target="OnDetectSoftware"/>
+    <ROW Action="AI_DpiContentScale" Type="1" Source="aicustact.dll" Target="DpiContentScale"/>
+    <ROW Action="AI_EnableDebugLog" Type="321" Source="aicustact.dll" Target="EnableDebugLog"/>
+    <ROW Action="AI_InstallModeCheck" Type="1" Source="aicustact.dll" Target="UpdateInstallMode" WithoutSeq="true"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Type="65" Source="aicustact.dll" Target="PrepareUpgrade"/>
+    <ROW Action="AI_RESTORE_LOCATION" Type="65" Source="aicustact.dll" Target="RestoreLocation"/>
+    <ROW Action="AI_ResolveKnownFolders" Type="1" Source="aicustact.dll" Target="AI_ResolveKnownFolders"/>
+    <ROW Action="AI_SHOW_LOG" Type="65" Source="aicustact.dll" Target="LaunchLogFile" WithoutSeq="true"/>
+    <ROW Action="AI_STORE_LOCATION" Type="51" Source="ARPINSTALLLOCATION" Target="[APPDIR]"/>
+    <ROW Action="SET_APPDIR" Type="307" Source="APPDIR" Target="[ProgramFilesFolder][Manufacturer]\[ProductName]" MultiBuildTarget="BuildUwpAppX:"/>
+    <ROW Action="SET_SHORTCUTDIR" Type="307" Source="SHORTCUTDIR" Target="[ProgramMenuFolder][ProductName]" MultiBuildTarget="DefaultBuild:[DesktopFolder]"/>
+    <ROW Action="SET_TARGETDIR_TO_APPDIR" Type="51" Source="TARGETDIR" Target="[APPDIR]"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiFeatCompsComponent">
+    <ROW Feature_="MainFeature" Component_="APPDIR"/>
+    <ROW Feature_="MainFeature" Component_="ProductInformation"/>
+    <ROW Feature_="AiAppXAssets" Component_="Store50x50Logo.scale100.png"/>
+    <ROW Feature_="MainFeature" Component_="QLSK_References"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
+    <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_STORE_LOCATION" Condition="(Not Installed) OR REINSTALL" Sequence="1501"/>
+    <ROW Action="AI_PREPARE_UPGRADE" Condition="AI_UPGRADE=&quot;No&quot; AND (Not Installed)" Sequence="1399"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiInstallUISequenceComponent">
+    <ROW Action="AI_RESTORE_LOCATION" Condition="APPDIR=&quot;&quot;" Sequence="749"/>
+    <ROW Action="AI_ResolveKnownFolders" Sequence="53"/>
+    <ROW Action="AI_DpiContentScale" Sequence="52"/>
+    <ROW Action="AI_EnableDebugLog" Sequence="51"/>
+    <ROW Action="AI_DetectSoftware" Sequence="101"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiLaunchConditionsComponent">
+    <ROW Condition="(VersionNT &lt;&gt; 400)" Description="[ProductName] cannot be installed on [WindowsTypeNT40Display]." DescriptionLocId="AI.LaunchCondition.NoNT40" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT &lt;&gt; 500)" Description="[ProductName] cannot be installed on [WindowsTypeNT50Display]." DescriptionLocId="AI.LaunchCondition.NoNT50" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="(VersionNT64 OR ((VersionNT &lt;&gt; 501) OR (ServicePackLevel = 3))) AND ((VersionNT &lt;&gt; 502) OR (ServicePackLevel = 2))" Description="[ProductName] cannot be installed on [WindowsTypeNT5XDisplay]." DescriptionLocId="AI.LaunchCondition.NoNT5X" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="AI_DETECTED_DOTNET_VERSION &gt;= AI_REQUIRED_DOTNET_VERSION" Description="[ProductName] cannot be installed on systems with .NET Framework version lower than [AI_REQUIRED_DOTNET_DISPLAY]." DescriptionLocId="AI.LaunchCondition.DotNET" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="AI_DETECTED_SQLEXPRESS_VERSION &gt;= AI_REQUIRED_SQLEXPRESS_VERSION" Description="[ProductName] cannot be installed on systems without [AI_REQUIRED_SQLEXPRESS_DISPLAY] or higher." DescriptionLocId="AI.LaunchCondition.SQLExpress" IsPredefined="true" Builds="DefaultBuild"/>
+    <ROW Condition="VersionNT" Description="[ProductName] cannot be installed on [WindowsType9XDisplay]." DescriptionLocId="AI.LaunchCondition.No9X" IsPredefined="true" Builds="DefaultBuild"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiRegsComponent">
+    <ROW Registry="Path" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Path" Value="[APPDIR]" Component_="ProductInformation"/>
+    <ROW Registry="Version" Root="-1" Key="Software\[Manufacturer]\[ProductName]" Name="Version" Value="[ProductVersion]" Component_="ProductInformation"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
+    <ATTRIBUTE name="UsedTheme" value="classic"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.MsiUpgradeComponent">
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="0.0.1" VersionMax="[|ProductVersion]" Attributes="257" ActionProperty="OLDPRODUCTS"/>
+    <ROW UpgradeCode="[|UpgradeCode]" VersionMin="[|ProductVersion]" Attributes="2" ActionProperty="AI_NEWERPRODUCTFOUND"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.VsProjectComponent">
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.Licensing.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.1.5.3.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuButton.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuCheckBox.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuCircleProgress.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuColorTransition.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuDataGridView.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuDatePicker.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuDropdown.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuFormDock.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuGauge.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuGradientPanel.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuGroupBox.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuImageButton.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuLabel.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuLoader.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuPages.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuPanel.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuPictureBox.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuProgressBar.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuRadioButton.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuRating.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuScrollBar.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuSeparator.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuShadowPanel.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuShapes.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuSlider.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuSnackbar.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuTextBox.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuToggleSwitch.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuToolTip.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuTransition.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.BunifuUserControl.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.UI.WinForms.Deprecated.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Bunifu.Utils.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="EntityFramework.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="EntityFramework.SqlServer.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Guna.UI2.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="MaterialDesignColors.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="MaterialDesignThemes.Wpf.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.ReportViewer.Common.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.ReportViewer.DataVisualization.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.ReportViewer.Design.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.ReportViewer.ProcessingObjectModel.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.ReportViewer.WinForms.dll"/>
+    <ROW ProjectId="{1d27253d-ab0c-4511-a261-80d07421c846}" ProjectName="QLSK" OutputGroup="References" OutputFile="Microsoft.SqlServer.Types.dll"/>
+  </COMPONENT>
+</DOCUMENT>

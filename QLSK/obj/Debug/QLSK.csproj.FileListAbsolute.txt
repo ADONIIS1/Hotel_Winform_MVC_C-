@@ -1,0 +1,479 @@
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\QLSK.exe.config
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\QLSK.exe
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\QLSK.pdb
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Guna.UI2.dll
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.Properties.Resources.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.csproj.GenerateResource.cache
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.csproj.CoreCompileInputs.cache
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.csproj.CopyComplete
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.exe
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.pdb
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_DangNhap.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ManHinhchinh.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_DanhSachPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhongMoi.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietDatPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\EntityFramework.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\EntityFramework.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.xml
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.DesignUserControl.UCPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.csproj.AssemblyReference.cache
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\MaterialDesignColors.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\MaterialDesignColors.pdb
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.Licensing.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.Utils.dll
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Đồ Án CNPM\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_XuatHoaDon.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_DichVu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVuMoi.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiDichVu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_VatTu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemVatTu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_KieuPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemKieuPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiDichVu.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiPhong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_Phong.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemPhongMoi.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_KhachHang.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_LapDat.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_PhieuLapDatMoi.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietLapDat.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_TaiKhoan.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThemTaiKhoan.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_HoaDon.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_NhanVien.resources
+D:\Đồ Án CNPM\QLSK\QLSK\obj\Debug\QLSK.fm_ThongTinCaNhan.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\QLSK.exe.config
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\QLSK.exe
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\QLSK.pdb
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.Utils.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.DesignUserControl.UCPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietDatPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietLapDat.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_DangNhap.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_DanhSachPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhongMoi.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_DichVu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_HoaDon.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_KhachHang.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_LapDat.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiDichVu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_KieuPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ManHinhchinh.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_NhanVien.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_PhieuLapDatMoi.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_Phong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_TaiKhoan.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVuMoi.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemKieuPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiDichVu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiPhong.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemPhongMoi.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemVatTu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThemTaiKhoan.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThongTinCaNhan.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_VatTu.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_XuatHoaDon.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.exe
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.pdb
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_ThongKe.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\QLSK.fm_BaoCao.resources
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Downloads\QLSK\QLSK\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Downloads\QLSK\QLSK\bin\Debug\ReportBaoCao.rdlc
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ReportBaoCao.rdlc
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\QLSK.exe.config
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\QLSK.exe
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\QLSK.pdb
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.Utils.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\EntityFramework.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Guna.UI2.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\MaterialDesignColors.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\EnvDTE.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\stdole.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\EntityFramework.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.csproj.AssemblyReference.cache
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.DesignUserControl.UCPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_BaoCao.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietDatPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietLapDat.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DangNhap.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DanhSachPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DatPhongMoi.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DichVu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_HoaDon.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_KhachHang.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_LapDat.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiDichVu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_KieuPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_LoaiPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ManHinhchinh.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ChiTietPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_NhanVien.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_PhieuLapDatMoi.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_Phong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_TaiKhoan.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemDichVuMoi.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemKieuPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiDichVu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemLoaiPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemPhongMoi.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemVatTu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThemTaiKhoan.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThongTinCaNhan.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_VatTu.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_XuatHoaDon.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_ThongKe.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.Properties.Resources.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.csproj.GenerateResource.cache
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.csproj.CoreCompileInputs.cache
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.csproj.CopyComplete
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.exe
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.pdb
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_GiaPhong.resources
+C:\Users\ldlan\Downloads\QLSK\QLSK\QLSK\obj\Debug\QLSK.fm_DoiMatKhau.resources
